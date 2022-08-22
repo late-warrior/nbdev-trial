@@ -32,4 +32,7 @@ d = { 'settings': { 'allowed_cell_metadata_keys': '',
                 'tst_flags': 'notest',
                 'user': 'late-warrior',
                 'version': '0.0.1'},
-  'syms': {'nbdev_trial.core': {'nbdev_trial.core.foo': 'https://late-warrior.github.io/nbdev_trial.core.html#foo'}}}
+  'syms': { 'nbdev_trial.core': {'nbdev_trial.core.foo': 'https://late-warrior.github.io/nbdev_trial.core.html#foo'},
+            'nbdev_trial.facade': {'nbdev_trial.facade.say_hello': 'https://late-warrior.github.io/nbdev_trial.facade.html#say_hello'},
+            'nbdev_trial.say_hello': { 'nbdev_trial.say_hello.foo': 'https://late-warrior.github.io/nbdev_trial.say_hello.html#foo',
+                                       'nbdev_trial.say_hello.say_hello': 'https://late-warrior.github.io/nbdev_trial.say_hello.html#say_hello'}}}
