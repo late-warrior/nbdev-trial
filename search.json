@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-trial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-trial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_trial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-trial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "facade.html",
+    "href": "facade.html",
+    "title": "facade",
+    "section": "",
+    "text": "say_hello\n\n say_hello (to:str)\n\nSay hello to somebody\n\nsay_hello('New Guy')\n\n'Hello New Guy!'"
+  }
+]
